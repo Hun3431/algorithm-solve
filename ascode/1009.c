@@ -1,3 +1,7 @@
+/*
+ * 1009: 대소문자 변경
+ * http://ascode.org/problem.php?id=1009
+ */
 #include<stdio.h>
 
 int main(void) {

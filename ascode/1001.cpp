@@ -1,3 +1,7 @@
+/*
+ * 1001: 나는 차차를 싫어해!
+ * http://ascode.org/problem.php?id=1001
+ */
 #include <iostream>
 #include <string>
 using namespace std;

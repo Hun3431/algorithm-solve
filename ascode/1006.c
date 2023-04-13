@@ -1,3 +1,7 @@
+/*
+ * 1006: 문자열중 문자의 갯수 구하기
+ * http://ascode.org/problem.php?id=1006
+ */
 #include <stdio.h>
 
 char word[2000];

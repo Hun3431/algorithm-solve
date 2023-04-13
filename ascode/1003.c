@@ -1,3 +1,7 @@
+/*
+ * 1003: 차차 퀘스트 I
+ * http://ascode.org/problem.php?id=1003
+ */
 #include <stdio.h>
 
 short table[32][32] = { 0 };

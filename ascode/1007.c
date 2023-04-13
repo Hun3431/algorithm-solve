@@ -1,3 +1,7 @@
+/*
+ * 1007: 
+ * http://ascode.org/problem.php?id=1007
+ */
 #include<stdio.h>
  
 int main(void){

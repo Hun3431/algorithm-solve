@@ -1,3 +1,7 @@
+/*
+ * 1002: A + B 계산하기
+ * http://ascode.org/problem.php?id=1002
+ */
 #include <stdio.h>
 
 int main () {

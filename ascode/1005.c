@@ -1,3 +1,7 @@
+/*
+ * 1005: 시분할 연습 #2
+ * http://ascode.org/problem.php?id=1005
+ */
 #include <stdio.h>
 
 int main() {

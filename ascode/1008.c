@@ -1,3 +1,7 @@
+/*
+ * 1008: 평균 구하기 (기초) #2
+ * http://ascode.org/problem.php?id=1008
+ */
 #include<stdio.h>
  
 int main(void){
