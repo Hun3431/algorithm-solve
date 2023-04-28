@@ -4,18 +4,14 @@
  * 반복문, 배열 사용
  */
 #include<stdio.h>
+
 int main(void){
     // 입력 받을 번호와 조건 만족도 상태를 나타내는 변수 선언
-    int num[6], state = 0, sum = 0;
-    // 번호 입력, 번호의 총합 계산
+    int num[6], state = 0, sum = 0, odd = 0;
+    // 번호 입력, 번호의 총합 계산, 홀수 번호 계산
     for(int i = 0; i < 6; i ++) {
         scanf("%d", &num[i]);
         sum += num[i];
-    }
-    
-    // 홀수의 갯수 파악
-    int odd = 0; // odd : 홀수
-    for(int i = 0; i < 6; i ++) {
         odd += num[i] % 2;
     }
     
