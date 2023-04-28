@@ -1,6 +1,6 @@
 /*
- * 문제 H: 오븐 시계 #3
- * http://ascode.org/problem.php?cid=1045&pid=7
+ * 1363: 오븐 시계 #3
+ * http://ascode.org/problem.php?id=1363
  */
 #include<stdio.h>
 

@@ -25,6 +25,6 @@ int main(void){
     num /= 10;
     
     if(reverse == cnum) printf("Palindrome!\n");
-    else printf("No Palindrome!\n");
+    else printf("No palindrome!\n");
     return 0;
 }

@@ -1,7 +1,6 @@
 /*
- * 문제 K: 팰린드롬 숫자 #1
- * http://ascode.org/problem.php?cid=1045&pid=10
- * 반복문 사용 예시
+ * 1370: 팰린드롬 숫자 #1
+ * http://ascode.org/problem.php?id=1370
  */
 #include<stdio.h>
 

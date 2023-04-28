@@ -1,6 +1,6 @@
 /*
- * 문제 G: 마법의 수 찾아내기 #3
- * http://ascode.org/problem.php?cid=1045&pid=6
+ * 1372: 마법의 수 찾아내기 #3
+ * http://ascode.org/problem.php?id=1372
  */
 #include<stdio.h>
 

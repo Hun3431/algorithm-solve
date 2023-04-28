@@ -1,6 +1,6 @@
 /*
- * 문제 E: 나머지 구하기 #2
- * http://ascode.org/problem.php?cid=1045&pid=4
+ * 1366: 나머지 구하기 #2
+ * http://ascode.org/problem.php?id=1366
  */
 #include<stdio.h>
 

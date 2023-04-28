@@ -1,6 +1,6 @@
 /*
- * 문제 F: 최대로 살 수 있는 사탕의 개수 계산하기 #2
- * http://ascode.org/problem.php?cid=1045&pid=5
+ * 1364: 최대로 살 수 있는 사탕의 개수 계산하기 #2
+ * http://ascode.org/problem.php?id=1364
  */
 #include<stdio.h>
 
